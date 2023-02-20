@@ -16,32 +16,32 @@ let initialList = [
 
     {
         id: nextId++,
-        name: 'Иванов Иван Иванович',
-        birthday: '23.11.1994',
-        phone: '78932342354',
-        email: 'ivan@mail.ru',
-        days: 20,
-        wage: 2300
+        name: 'Иванов Пётр Иванович',
+        birthday: '02.02.1987',
+        phone: '78278342354',
+        email: 'peter@mail.ru',
+        days: 15,
+        wage: 2400
     },
 
     {
         id: nextId++,
-        name: 'Иванов Иван Иванович',
-        birthday: '23.11.1994',
+        name: 'Петров Иван Иванович',
+        birthday: '24.03.1993',
         phone: '78932342354',
-        email: 'ivan@mail.ru',
-        days: 20,
-        wage: 2300
+        email: 'ivan93@mail.ru',
+        days: 17,
+        wage: 1900
     },
 
     {
         id: nextId++,
-        name: 'Иванов Иван Иванович',
-        birthday: '23.11.1994',
+        name: 'Иванов Алексей Иванович',
+        birthday: '07.08.1991',
         phone: '78932342354',
-        email: 'ivan@mail.ru',
-        days: 20,
-        wage: 2300
+        email: 'ivanov91@mail.ru',
+        days: 21,
+        wage: 2700
     }
 ];
 
